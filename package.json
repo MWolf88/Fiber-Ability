@@ -30,7 +30,7 @@
     "discord.js": "12.4.0",
     "ffmpeg-static": "4.2.7",
     "node-opus": "0.3.3",
-    "yt-search": "^2.7.3",
+    "yt-search": "^2.10.0",
     "ytdl-core": "4.0.5"
   },
   "devDependencies": {
